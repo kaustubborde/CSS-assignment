@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(244, 225, 202);
+    margin-bottom: 20px;
+    /* margin-left: 20px;
+    margin-right:20px;
+    border-top: 0px; */
+    border-left: 20px solid black ;
+     border-right: 20px solid black;
+      /* border-bottom: 20px solid black; */
+    /* padding-left: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px; */
+}
+h1{
+    background-color: rgb(10, 5, 5);
+    color: white;
+    margin-top: 0px;
+  padding: none;;
+}
+div{
+    padding: 10px;
+}
+ #ganpath{
+    border-image: round;
+    border: 2px solid black;
+    padding: 5px;
+    width: 216px;
+    margin: 8px;
+
+}
+    
+.Morya{
+    background-color: black;
+    color: white;
+    display: inline-flex;
+    width: 100%;
+}/*
+#bappa{
+     background-color: black;
+    color: white;
+   
+} */
